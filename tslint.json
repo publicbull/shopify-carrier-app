@@ -2,7 +2,8 @@
     "rules": {
         "no-console": false,
         "semicolon": [true, "never"],
-        "prettier": true
+        "prettier": true,
+        "no-var-requires": false
     },
     "extends": [
         "tslint:recommended",
