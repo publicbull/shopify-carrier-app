@@ -1,3 +1,6 @@
-import message from '~/sub'
+import * as dotenv from 'dotenv-flow'
 
-console.log(message)
+dotenv.config()
+
+console.log(process.env.SHOPIFY_APP_KEY)
+console.log(process.env.SHOPIFY_APP_SECRET)
