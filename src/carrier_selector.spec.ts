@@ -16,10 +16,16 @@ describe('CarrierSelector', () => {
             .then(() => done())
     })
 
-    it('lookupCarrier', () =>
-        cs
+    it('lookupCarrier', () => {
+        let now
+        console.log('start lookup', (now = Date.now()))
+        return cs
             .lookupCarrier('zip LIKE "2209" AND barangay LIKE "*Vaca"')
             .then(it => expect(it.length).equal(2))
+            .then(it => console.log('End lookup ' + (Date.now() - now)))
+            .then(() => console.log('Start 2nd lookup ' + (now = Date.now())))
             .then(() => cs.lookupCarrier('zip LIKE "2209"'))
-            .then(it => expect(it.length).equal(30)))
+            .then(it => expect(it.length).equal(30))
+            .then(it => console.log('End lookup ' + (Date.now() - now)))
+    })
 })
