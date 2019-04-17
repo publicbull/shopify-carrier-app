@@ -1,30 +1,20 @@
-import { assert, should } from 'chai'
+import { expect, should } from 'chai'
 
-import { Carrier, CarrierSelector } from './carrier_selector'
+import { CarrierSelector } from './carrier_selector'
 
 should()
 
-describe('Carrier', () => {
-    it('constructor', () => {
-        const c = new Carrier('one')
-        c.name.should.equal('one')
-    })
-
-    it('getter/setter', () => {
-        const c = new Carrier('one')
-        c.name.should.equal('one')
-        c.name = 'two'
-        c.name.should.equal('two')
-        assert(c.name === 'two')
-    })
-})
-
 describe('CarrierSelector', () => {
     it('constructor', done => {
-        const cs = new CarrierSelector(() => {
-            cs.carriers.should.deep.equal([])
-            cs.addresses.length.should.equal(23000)
-            done()
-        })
+        const cs = new CarrierSelector(that =>
+            that
+                .carriers()
+                .then(carriers => expect(carriers.length).to.equal(6))
+                .then(() => that.addresses())
+                .then(addresses => expect(addresses.length).to.equal(23000))
+                .then(() => cs.realm)
+                .then(realm => realm.close())
+                .then(() => done())
+        )
     })
 })

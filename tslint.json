@@ -6,6 +6,7 @@
         "no-var-requires": false,
         "variable-name": [
             true,
+            "allow-pascal-case",
             "ban-keywords",
             "check-format",
             "allow-leading-underscore"
