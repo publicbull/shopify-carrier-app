@@ -16,7 +16,7 @@ export class CarrierSelector {
     constructor(done?: any) {
         this._realm = Promise.resolve(
             new Realm({
-                inMemory: false,
+                inMemory: true,
                 schema: [CarrierSchema, AddressSchema]
             })
         )
@@ -29,6 +29,12 @@ export class CarrierSelector {
 
     public addresses(): Promise<any[]> {
         return this._realm.then(realm => realm.objects('Address'))
+    }
+
+    public lookupCarrier(address: any) {
+        return this.realm.then(realm =>
+            realm.objects('Address').filtered(address)
+        )
     }
 
     protected loadCSVData(done: any) {
@@ -47,7 +53,7 @@ export class CarrierSelector {
                             .fromStream(csvStream)
                             .transform((data: string[]) => {
                                 return {
-                                    bangary: data[3],
+                                    barangay: data[3],
                                     city: data[2],
                                     province: data[1],
                                     state: data[0],
@@ -73,8 +79,6 @@ export class CarrierSelector {
                 })
                 Promise.all(promises).then(() => {
                     console.log(`Finished records loaded`)
-                    realm.compact()
-                    console.log(`Finished compact`)
                     done(that)
                 })
             })
