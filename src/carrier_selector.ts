@@ -79,7 +79,9 @@ export class CarrierSelector {
                 })
                 Promise.all(promises).then(() => {
                     console.log(`Finished records loaded`)
-                    done(that)
+                    if (done) {
+                        done(that)
+                    }
                 })
             })
         })
