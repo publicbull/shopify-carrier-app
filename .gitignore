@@ -5,4 +5,7 @@ dist
 
 .env.local
 .env.*.local
+*.realm
+*.realm.*
+/csv
 /*.log
