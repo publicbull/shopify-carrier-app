@@ -1,7 +1,7 @@
 export const AddressSchema = {
     name: 'Address',
     properties: {
-        bangary: 'string',
+        barangay: 'string',
         carrier: 'Carrier',
         city: 'string',
         province: 'string',
