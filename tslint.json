@@ -3,7 +3,14 @@
         "no-console": false,
         "semicolon": [true, "never"],
         "prettier": true,
-        "no-var-requires": false
+        "no-var-requires": false,
+        "variable-name": [
+            true,
+            "ban-keywords",
+            "check-format",
+            "allow-leading-underscore"
+        ],
+        "max-classes-per-file": [true, 5, "exclude-class-expressions"]
     },
     "extends": [
         "tslint:recommended",

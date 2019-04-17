@@ -11,10 +11,14 @@ import request from 'request-promise'
 
 const nonce = require('nonce')()
 
+import { CarrierSelector } from './carrier_selector'
+
 const apiKey = process.env.SHOPIFY_API_KEY
 const apiSecret = process.env.SHOPIFY_API_SECRET
 const scopes = 'read_products'
 const forwardingAddress = process.env.FORWARDING_ADDRESS // Replace this with your HTTPS Forwarding address
+
+const carrierSelector = new CarrierSelector()
 
 app.get('/', (req, res) => {
     res.send('Shopify Express Application:' + JSON.stringify(req.query))
