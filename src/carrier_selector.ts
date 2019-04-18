@@ -2,7 +2,6 @@ import csv from 'fast-csv'
 import fs from 'fs'
 
 import Realm from 'realm'
-// import * as RealmTypes from "realm"
 
 import { AddressSchema } from './models/address'
 import { CarrierSchema } from './models/carrier'

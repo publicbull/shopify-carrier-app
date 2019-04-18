@@ -21,7 +21,26 @@ const forwardingAddress = process.env.FORWARDING_ADDRESS // Replace this with yo
 const carrierSelector = new CarrierSelector()
 
 app.get('/', (req, res) => {
-    res.send('Shopify Express Application:' + JSON.stringify(req.query))
+    const qa: string[] = Object.keys(req.query).map(key => {
+        const it = req.query[key]
+        return `${key} LIKE "${it}"`
+    })
+    const q: string = qa.join(' AND ')
+    console.log(q)
+
+    carrierSelector
+        .lookupCarrier(q)
+        .then((a: any) => {
+            console.log('!!!')
+            // let carriers = a.map(it => it.linkingObjects('Carrier', 'addresses'));
+            const carriers = a.map(it => it.carrier)
+            const names = carriers
+                .map(it => it.entries().next().value[1].name)
+                .map(it => it)
+            console.log(names)
+            res.status(400).json(names)
+        })
+        .catch(err => res.status(400).send(err.message))
 })
 
 app.get('/shopify', (req, res) => {
