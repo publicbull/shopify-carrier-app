@@ -10,7 +10,8 @@
             "ban-keywords",
             "check-format",
             "allow-leading-underscore"
-        ]
+        ],
+        "object-literal-sort-keys": false //Disable for typescript
     },
     "extends": [
         "tslint:recommended",
