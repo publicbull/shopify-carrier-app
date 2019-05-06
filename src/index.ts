@@ -11,6 +11,7 @@ import request from 'request-promise'
 
 const nonce = require('nonce')()
 
+import * as _ from 'lodash'
 import { CarrierSelector } from './carrier_selector'
 
 const apiKey = process.env.SHOPIFY_API_KEY
@@ -18,29 +19,41 @@ const apiSecret = process.env.SHOPIFY_API_SECRET
 const scopes = 'read_products'
 const forwardingAddress = process.env.FORWARDING_ADDRESS // Replace this with your HTTPS Forwarding address
 
-const carrierSelector = new CarrierSelector()
+let carrierSelector
+const dbLoaded = new Promise(
+    resolve => (carrierSelector = new CarrierSelector(resolve))
+)
 
 app.get('/', (req, res) => {
-    const qa: string[] = Object.keys(req.query).map(key => {
-        const it = req.query[key]
-        return `${key} LIKE "${it}"`
-    })
-    const q: string = qa.join(' AND ')
-    console.log(q)
-
-    carrierSelector
-        .lookupCarrier(q)
-        .then((a: any) => {
-            console.log('!!!')
-            // let carriers = a.map(it => it.linkingObjects('Carrier', 'addresses'));
-            const carriers = a.map(it => it.carrier)
-            const names = carriers
-                .map(it => it.entries().next().value[1].name)
-                .map(it => it)
-            console.log(names)
-            res.status(400).json(names)
+    if (Object.keys(req.query).length > 0) {
+        const qa: string[] = Object.keys(req.query).map(key => {
+            let it = req.query[key].toString().toLowerCase()
+            switch (key) {
+                case 'barangay':
+                case 'province':
+                case 'state':
+                case 'city':
+                    it = `*${it}*`
+                    break
+            }
+            return `${key} LIKE "${it}"`
         })
-        .catch(err => res.status(400).send(err.message))
+        const q: string = qa.join(' AND ')
+        console.debug(q)
+
+        carrierSelector
+            .lookupCarrier(q)
+            .then((arr: any) => {
+                const carriers = arr.map(it => it.carrier)
+                const names: string[] = _.uniq(
+                    carriers.map(it => it.snapshot()[0].name)
+                )
+                res.status(200).json(names)
+            })
+            .catch(err => res.status(400).send(err.message))
+    } else {
+        res.status(400).send('Shopify carrier selector application API')
+    }
 })
 
 app.get('/shopify', (req, res) => {
@@ -146,6 +159,9 @@ app.get('/shopify/callback', (req, res) => {
     }
 })
 
-app.listen(3000, () => {
-    console.log('Example app listening on port 3000!')
+export const serverStarted = new Promise(resolve => {
+    app.listen(3000, () => {
+        console.log('Example app listening on port 3000!')
+        dbLoaded.then(() => resolve(app))
+    })
 })
