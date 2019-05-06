@@ -52,11 +52,11 @@ export class CarrierSelector {
                             .fromStream(csvStream)
                             .transform((data: string[]) => {
                                 return {
-                                    barangay: data[3],
-                                    city: data[2],
-                                    province: data[1],
-                                    state: data[0],
-                                    zip: data[4]
+                                    barangay: data[3].toString().toLowerCase(),
+                                    city: data[2].toString().toLowerCase(),
+                                    province: data[1].toString().toLowerCase(),
+                                    state: data[0].toString().toLowerCase(),
+                                    zip: data[4].toString().toLowerCase()
                                 }
                             })
                             .on('data', (address: any) => {
