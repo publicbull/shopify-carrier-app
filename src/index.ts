@@ -21,25 +21,30 @@ const forwardingAddress = process.env.FORWARDING_ADDRESS // Replace this with yo
 
 let carrierSelector
 const dbLoaded = new Promise(
-    resolve => (carrierSelector = new CarrierSelector(resolve))
+    resolve => (carrierSelector = CarrierSelector.getInstance(resolve))
 )
 
+const DEFAULT_CARRIER = 'LBC'
+
 app.get('/', (req, res) => {
+    console.log(req.query)
     if (Object.keys(req.query).length > 0) {
         const qa: string[] = Object.keys(req.query).map(key => {
-            let it = req.query[key].toString().toLowerCase()
+            const it = req.query[key].toString().toLowerCase()
             switch (key) {
                 case 'barangay':
                 case 'province':
                 case 'state':
                 case 'city':
-                    it = `*${it}*`
+                    return `${key} LIKE "*${it}*"`
+                    break
+                default:
+                    return `${key} = "${it}"`
                     break
             }
-            return `${key} LIKE "${it}"`
         })
         const q: string = qa.join(' AND ')
-        console.debug(q)
+        console.log(q)
 
         carrierSelector
             .lookupCarrier(q)
@@ -48,11 +53,24 @@ app.get('/', (req, res) => {
                 const names: string[] = _.uniq(
                     carriers.map(it => it.snapshot()[0].name)
                 )
-                res.status(200).json(names)
+                names.push(DEFAULT_CARRIER)
+                console.log(req.headers.accept)
+                console.log(names.length)
+                switch (req.headers.accept || 'text/plain') {
+                    case 'application/json':
+                        res.status(200).json(names)
+                        break
+                    default:
+                        res.status(200).send(names[0] + '\r\n')
+                        break
+                }
             })
-            .catch(err => res.status(400).send(err.message))
+            .catch(err => {
+                console.error(err)
+                res.status(400).send(err.message)
+            })
     } else {
-        res.status(400).send('Shopify carrier selector application API')
+        res.status(200).send('Shopify carrier selector application API')
     }
 })
 

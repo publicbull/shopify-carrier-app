@@ -10,9 +10,17 @@ export class CarrierSelector {
     get realm(): Promise<Realm> {
         return this._realm
     }
+    public static getInstance(done?: any): CarrierSelector {
+        if (CarrierSelector.bfInternal === undefined) {
+            CarrierSelector.bfInternal = new CarrierSelector(done)
+        }
+        return CarrierSelector.bfInternal
+    }
+
+    private static bfInternal: CarrierSelector
     private _realm: Promise<any>
 
-    constructor(done?: any) {
+    private constructor(done?: any) {
         this._realm = Promise.resolve(
             new Realm({
                 inMemory: true,
