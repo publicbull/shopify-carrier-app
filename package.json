@@ -5,7 +5,11 @@
     "main": "dist/index.js",
     "license": "MIT",
     "scripts": {
-        "start": "ts-node -r tsconfig-paths/register src/index.ts",
+        "build-ts": "tsc",
+        "postinstall": "npm run build-ts",
+        "start": "npm run serve",
+        "serve": "node dist/index.js",
+        "dev": "ts-node -r tsconfig-paths/register src/index.ts",
         "build": "webpack",
         "lint": "tslint src/**/*.ts",
         "test": "jest --colors --watchAll",
