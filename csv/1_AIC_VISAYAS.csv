@@ -1,0 +1,800 @@
+STATE,PROVINCE,CITY/MUNICIPALITY,BARANGAY,ZIP CODE,REMARK
+Visayas,Aklan,Kalibo,Andagaw,5600,SA
+Visayas,Aklan,Kalibo,Bachaw Norte,5600,SA
+Visayas,Aklan,Kalibo,Bachaw Sur,5600,SA
+Visayas,Aklan,Kalibo,Briones,5600,SA
+Visayas,Aklan,Kalibo,Buswang New,5600,SA
+Visayas,Aklan,Kalibo,Buswang Old,5600,SA
+Visayas,Aklan,Kalibo,Caano,5600,SA
+Visayas,Aklan,Kalibo,Estancia,5600,SA
+Visayas,Aklan,Kalibo,Linabuan Norte,5600,SA
+Visayas,Aklan,Kalibo,Mabilo,5600,SA
+Visayas,Aklan,Kalibo,Mobo,5600,SA
+Visayas,Aklan,Kalibo,Nalook,5600,SA
+Visayas,Aklan,Kalibo,Poblacion,5600,SA
+Visayas,Aklan,Kalibo,Pook,5600,SA
+Visayas,Aklan,Kalibo,Tigayon,5600,SA
+Visayas,Aklan,Kalibo,Tinigaw,5600,SA
+Visayas,Bohol,Tagbilaran City,Bool,6300,SA
+Visayas,Bohol,Tagbilaran City,Booy,6300,SA
+Visayas,Bohol,Tagbilaran City,Cabawan,6300,SA
+Visayas,Bohol,Tagbilaran City,Cogon,6300,SA
+Visayas,Bohol,Tagbilaran City,Dampas,6300,SA
+Visayas,Bohol,Tagbilaran City,Dao,6300,SA
+Visayas,Bohol,Tagbilaran City,Manga,6300,SA
+Visayas,Bohol,Tagbilaran City,Mansasa,6300,SA
+Visayas,Bohol,Tagbilaran City,Poblacion I,6300,SA
+Visayas,Bohol,Tagbilaran City,Poblacion II,6300,SA
+Visayas,Bohol,Tagbilaran City,Poblacion III,6300,SA
+Visayas,Bohol,Tagbilaran City,San Isidro,6300,SA
+Visayas,Bohol,Tagbilaran City,Taloto,6300,SA
+Visayas,Bohol,Tagbilaran City,Tiptip,6300,SA
+Visayas,Bohol,Tagbilaran City,Ubujan,6300,SA
+Visayas,Cebu,Cebu City,Adlaon,6000,SA
+Visayas,Cebu,Cebu City,Agsungot,6000,SA
+Visayas,Cebu,Cebu City,Apas,6000,SA
+Visayas,Cebu,Cebu City,Babag,6000,SA
+Visayas,Cebu,Cebu City,Bacayan,6000,SA
+Visayas,Cebu,Cebu City,Banilad,6000,SA
+Visayas,Cebu,Cebu City,Basak Pardo,6000,SA
+Visayas,Cebu,Cebu City,Basak San Nicolas,6000,SA
+Visayas,Cebu,Cebu City,Binaliw,6000,SA
+Visayas,Cebu,Cebu City,Bonbon,6000,SA
+Visayas,Cebu,Cebu City,Budla-an (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Buhisan,6000,SA
+Visayas,Cebu,Cebu City,Bulacao,6000,SA
+Visayas,Cebu,Cebu City,Buot-Taup Pardo,6000,SA
+Visayas,Cebu,Cebu City,Busay (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Calamba,6000,SA
+Visayas,Cebu,Cebu City,Cambinocot,6000,SA
+Visayas,Cebu,Cebu City,Camputhaw (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Capitol Site (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Carreta,6000,SA
+Visayas,Cebu,Cebu City,Central (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Cogon Pardo,6000,SA
+Visayas,Cebu,Cebu City,Cogon Ramos (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Day-as,6000,SA
+Visayas,Cebu,Cebu City,Duljo (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Ermita (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Guadalupe,6000,SA
+Visayas,Cebu,Cebu City,Guba,6000,SA
+Visayas,Cebu,Cebu City,Hippodromo,6000,SA
+Visayas,Cebu,Cebu City,Inayawan,6000,SA
+Visayas,Cebu,Cebu City,Kalubihan (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Kalunasan,6000,SA
+Visayas,Cebu,Cebu City,Kamagayan (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Kasambagan,6000,SA
+Visayas,Cebu,Cebu City,Kinasang-an Pardo,6000,SA
+Visayas,Cebu,Cebu City,Labangon,6000,SA
+Visayas,Cebu,Cebu City,Lahug (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Lorega (Lorega San Miguel),6000,SA
+Visayas,Cebu,Cebu City,Lusaran,6000,SA
+Visayas,Cebu,Cebu City,Luz,6000,SA
+Visayas,Cebu,Cebu City,Mabini,6000,SA
+Visayas,Cebu,Cebu City,Mabolo,6000,SA
+Visayas,Cebu,Cebu City,Malubog,6000,SA
+Visayas,Cebu,Cebu City,Mambaling,6000,SA
+Visayas,Cebu,Cebu City,Pahina Central (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Pahina San Nicolas,6000,SA
+Visayas,Cebu,Cebu City,Pamutan,6000,SA
+Visayas,Cebu,Cebu City,Pardo (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Pari-an,6000,SA
+Visayas,Cebu,Cebu City,Paril,6000,SA
+Visayas,Cebu,Cebu City,Pasil,6000,SA
+Visayas,Cebu,Cebu City,Pit-os,6000,SA
+Visayas,Cebu,Cebu City,Pulangbato,6000,SA
+Visayas,Cebu,Cebu City,Pung-Ol-Sibugay,6000,SA
+Visayas,Cebu,Cebu City,Punta Princesa,6000,SA
+Visayas,Cebu,Cebu City,Quiot Pardo,6000,SA
+Visayas,Cebu,Cebu City,Sambag I (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Sambag II (Pob.),6000,SA
+Visayas,Cebu,Cebu City,San Antonio (Pob.),6000,SA
+Visayas,Cebu,Cebu City,San Jose,6000,SA
+Visayas,Cebu,Cebu City,San Nicolas Central,6000,SA
+Visayas,Cebu,Cebu City,San Roque (Ciudad),6000,SA
+Visayas,Cebu,Cebu City,Santa Cruz (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Sapangdaku,6000,SA
+Visayas,Cebu,Cebu City,Sawang Calero (Pob.),6000,SA
+Visayas,Cebu,Cebu City,Sinsin,6000,SA
+Visayas,Cebu,Cebu City,Sirao,6000,SA
+Visayas,Cebu,Cebu City,Suba Pob. (Suba San Nicolas),6000,SA
+Visayas,Cebu,Cebu City,Sudlon I,6000,SA
+Visayas,Cebu,Cebu City,Sudlon II,6000,SA
+Visayas,Cebu,Cebu City,T. Padilla,6000,SA
+Visayas,Cebu,Cebu City,Tabunan,6000,SA
+Visayas,Cebu,Cebu City,Tagbao,6000,SA
+Visayas,Cebu,Cebu City,Talamban,6000,SA
+Visayas,Cebu,Cebu City,Taptap,6000,SA
+Visayas,Cebu,Cebu City,Tejero (Villa Gonzalo),6000,SA
+Visayas,Cebu,Cebu City,Tinago,6000,SA
+Visayas,Cebu,Cebu City,Tisa,6000,SA
+Visayas,Cebu,Cebu City,To-ong Pardo,6000,SA
+Visayas,Cebu,Cebu City,Zapatera,6000,SA
+Visayas,Cebu,Consolacion,Cabangahan,6001,SA
+Visayas,Cebu,Consolacion,Cansaga,6001,SA
+Visayas,Cebu,Consolacion,Casili,6001,SA
+Visayas,Cebu,Consolacion,Danglag,6001,SA
+Visayas,Cebu,Consolacion,Garing,6001,SA
+Visayas,Cebu,Consolacion,Jugan,6001,SA
+Visayas,Cebu,Consolacion,Lamac,6001,SA
+Visayas,Cebu,Consolacion,Lanipga,6001,SA
+Visayas,Cebu,Consolacion,Nangka,6001,SA
+Visayas,Cebu,Consolacion,Panas,6001,SA
+Visayas,Cebu,Consolacion,Panoypoy,6001,SA
+Visayas,Cebu,Consolacion,Pitogo,6001,SA
+Visayas,Cebu,Consolacion,Poblacion Occidental,6001,SA
+Visayas,Cebu,Consolacion,Poblacion Oriental,6001,SA
+Visayas,Cebu,Consolacion,Polog,6001,SA
+Visayas,Cebu,Consolacion,Pulpogan,6001,SA
+Visayas,Cebu,Consolacion,Sacsac,6001,SA
+Visayas,Cebu,Consolacion,Tayud,6001,SA
+Visayas,Cebu,Consolacion,Tilhaong,6001,SA
+Visayas,Cebu,Consolacion,Tolotolo,6001,SA
+Visayas,Cebu,Consolacion,Tugbongan,6001,SA
+Visayas,Cebu,Cordoba,Alegria,6017,SA
+Visayas,Cebu,Cordoba,Bangbang,6017,SA
+Visayas,Cebu,Cordoba,Buagsong,6017,SA
+Visayas,Cebu,Cordoba,Catarman,6017,SA
+Visayas,Cebu,Cordoba,Cogon,6017,SA
+Visayas,Cebu,Cordoba,Dapitan,6017,SA
+Visayas,Cebu,Cordoba,Day-As,6017,SA
+Visayas,Cebu,Cordoba,Gabi,6017,SA
+Visayas,Cebu,Cordoba,Gilutongan,6017,SA
+Visayas,Cebu,Cordoba,Ibabao,6017,SA
+Visayas,Cebu,Cordoba,Pilipog,6017,SA
+Visayas,Cebu,Cordoba,Poblacion,6017,SA
+Visayas,Cebu,Cordoba,San Miguel,6017,SA
+Visayas,Cebu,Lapu-Lapu City,Agus,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Babag,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Bankal,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Baring,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Basak,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Buaya,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Calawisan,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Canjulao,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Caubian,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Cawhagan,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Caw-Oy,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Gun-Ob,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Ibo,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Looc,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Mactan,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Maribago,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Marigondon,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Pajac,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Pajo,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Pangan-An,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Poblacion,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Punta Engano,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Pusok,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Sabang,6015,SA
+Visayas,Cebu,Lapu-Lapu City,San Vicente,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Santa Rosa,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Subabasbas,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Talima,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Tingo,6015,SA
+Visayas,Cebu,Lapu-Lapu City,Tungasan,6015,SA
+Visayas,Cebu,Liloan,Cabadiangan,6002,SA
+Visayas,Cebu,Liloan,Calero,6002,SA
+Visayas,Cebu,Liloan,Catarman,6002,SA
+Visayas,Cebu,Liloan,Cotcot,6002,SA
+Visayas,Cebu,Liloan,Jubay,6002,SA
+Visayas,Cebu,Liloan,Lataban,6002,SA
+Visayas,Cebu,Liloan,Mulao,6002,SA
+Visayas,Cebu,Liloan,Poblacion,6002,SA
+Visayas,Cebu,Liloan,San Roque,6002,SA
+Visayas,Cebu,Liloan,San Vicente,6002,SA
+Visayas,Cebu,Liloan,Santa Cruz,6002,SA
+Visayas,Cebu,Liloan,Tabla,6002,SA
+Visayas,Cebu,Liloan,Tayud,6002,SA
+Visayas,Cebu,Liloan,Yati,6002,SA
+Visayas,Cebu,Mandaue City,Alang-Alang,6014,SA
+Visayas,Cebu,Mandaue City,Bakilid,6014,SA
+Visayas,Cebu,Mandaue City,Banilad,6014,SA
+Visayas,Cebu,Mandaue City,Basak,6014,SA
+Visayas,Cebu,Mandaue City,Cabancalan,6014,SA
+Visayas,Cebu,Mandaue City,Cambaro,6014,SA
+Visayas,Cebu,Mandaue City,Canduman,6014,SA
+Visayas,Cebu,Mandaue City,Casili,6014,SA
+Visayas,Cebu,Mandaue City,Casuntingan,6014,SA
+Visayas,Cebu,Mandaue City,Centro (Pob.),6014,SA
+Visayas,Cebu,Mandaue City,Cubacub,6014,SA
+Visayas,Cebu,Mandaue City,Guizo,6014,SA
+Visayas,Cebu,Mandaue City,Ibabao-Estancia,6014,SA
+Visayas,Cebu,Mandaue City,Jagobiao,6014,SA
+Visayas,Cebu,Mandaue City,Labogon,6014,SA
+Visayas,Cebu,Mandaue City,Looc,6014,SA
+Visayas,Cebu,Mandaue City,Maguikay,6014,SA
+Visayas,Cebu,Mandaue City,Mantuyong,6014,SA
+Visayas,Cebu,Mandaue City,Opao,6014,SA
+Visayas,Cebu,Mandaue City,Pagsabungan,6014,SA
+Visayas,Cebu,Mandaue City,Pakna-An,6014,SA
+Visayas,Cebu,Mandaue City,Subangdaku,6014,SA
+Visayas,Cebu,Mandaue City,Tabok,6014,SA
+Visayas,Cebu,Mandaue City,Tawason,6014,SA
+Visayas,Cebu,Mandaue City,Tingub,6014,SA
+Visayas,Cebu,Mandaue City,Tipolo,6014,SA
+Visayas,Cebu,Mandaue City,Umapad,6014,SA
+Visayas,Cebu,Minglanilla,Cadulawan,6046,SA
+Visayas,Cebu,Minglanilla,Calajo-An,6046,SA
+Visayas,Cebu,Minglanilla,Camp 7,6046,SA
+Visayas,Cebu,Minglanilla,Camp 8,6046,SA
+Visayas,Cebu,Minglanilla,Cuanos,6046,SA
+Visayas,Cebu,Minglanilla,Guindaruhan,6046,SA
+Visayas,Cebu,Minglanilla,Linao,6046,SA
+Visayas,Cebu,Minglanilla,Manduang,6046,SA
+Visayas,Cebu,Minglanilla,Pakigne,6046,SA
+Visayas,Cebu,Minglanilla,Poblacion Ward I,6046,SA
+Visayas,Cebu,Minglanilla,Poblacion Ward II,6046,SA
+Visayas,Cebu,Minglanilla,Poblacion Ward III,6046,SA
+Visayas,Cebu,Minglanilla,Poblacion Ward IV,6046,SA
+Visayas,Cebu,Minglanilla,Tubod,6046,SA
+Visayas,Cebu,Minglanilla,Tulay,6046,SA
+Visayas,Cebu,Minglanilla,Tunghaan,6046,SA
+Visayas,Cebu,Minglanilla,Tungkil,6046,SA
+Visayas,Cebu,Minglanilla,Tungkop,6046,SA
+Visayas,Cebu,Minglanilla,Vito,6046,SA
+Visayas,Cebu,Talisay City,Biasong,6045,SA
+Visayas,Cebu,Talisay City,Bulacao,6045,SA
+Visayas,Cebu,Talisay City,Cadulawan,6045,SA
+Visayas,Cebu,Talisay City,Camp IV,6045,SA
+Visayas,Cebu,Talisay City,Cansojong,6045,SA
+Visayas,Cebu,Talisay City,Dumlog,6045,SA
+Visayas,Cebu,Talisay City,Jaclupan,6045,SA
+Visayas,Cebu,Talisay City,Lagtang,6045,SA
+Visayas,Cebu,Talisay City,Lawaan I,6045,SA
+Visayas,Cebu,Talisay City,Lawaan II,6045,SA
+Visayas,Cebu,Talisay City,Lawaan III,6045,SA
+Visayas,Cebu,Talisay City,Linao,6045,SA
+Visayas,Cebu,Talisay City,Maghaway,6045,SA
+Visayas,Cebu,Talisay City,Manipis,6045,SA
+Visayas,Cebu,Talisay City,Mohon,6045,SA
+Visayas,Cebu,Talisay City,Poblacion,6045,SA
+Visayas,Cebu,Talisay City,Pooc,6045,SA
+Visayas,Cebu,Talisay City,San Isidro,6045,SA
+Visayas,Cebu,Talisay City,San Roque,6045,SA
+Visayas,Cebu,Talisay City,Tabunoc,6045,SA
+Visayas,Cebu,Talisay City,Tangke,6045,SA
+Visayas,Cebu,Talisay City,Tapul,6045,SA
+Visayas,Iloilo,Iloilo City,Abeto Mirasol Taft South (Quirino Abeto),5000,SA
+Visayas,Iloilo,Iloilo City,Aguinaldo,5000,SA
+Visayas,Iloilo,Iloilo City,Airport (Tabucan Airport),5000,SA
+Visayas,Iloilo,Iloilo City,Alalasan Lapuz,5000,SA
+Visayas,Iloilo,Iloilo City,Arguelles,5000,SA
+Visayas,Iloilo,Iloilo City,Arsenal Aduana,5000,SA
+Visayas,Iloilo,Iloilo City,Bakhaw,5000,SA
+Visayas,Iloilo,Iloilo City,Balabago,5000,SA
+Visayas,Iloilo,Iloilo City,Balantang,5000,SA
+Visayas,Iloilo,Iloilo City,Baldoza,5000,SA
+Visayas,Iloilo,Iloilo City,Bantud,5000,SA
+Visayas,Iloilo,Iloilo City,Banuyao,5000,SA
+Visayas,Iloilo,Iloilo City,Baybay Tanza,5000,SA
+Visayas,Iloilo,Iloilo City,Benedicto (Jaro),5000,SA
+Visayas,Iloilo,Iloilo City,Bito-On,5000,SA
+Visayas,Iloilo,Iloilo City,Bolilao,5000,SA
+Visayas,Iloilo,Iloilo City,Bonifacio (Arevalo),5000,SA
+Visayas,Iloilo,Iloilo City,Bonifacio Tanza,5000,SA
+Visayas,Iloilo,Iloilo City,Buhang,5000,SA
+Visayas,Iloilo,Iloilo City,Buhang Taft North,5000,SA
+Visayas,Iloilo,Iloilo City,Buntatala,5000,SA
+Visayas,Iloilo,Iloilo City,Burgos-Mabini-Plaza,5000,SA
+Visayas,Iloilo,Iloilo City,Caingin,5000,SA
+Visayas,Iloilo,Iloilo City,Calahunan,5000,SA
+Visayas,Iloilo,Iloilo City,Calaparan,5000,SA
+Visayas,Iloilo,Iloilo City,Calubihan,5000,SA
+Visayas,Iloilo,Iloilo City,Calumpang,5000,SA
+Visayas,Iloilo,Iloilo City,Camalig,5000,SA
+Visayas,Iloilo,Iloilo City,Cochero,5000,SA
+Visayas,Iloilo,Iloilo City,Compania,5000,SA
+Visayas,Iloilo,Iloilo City,Concepcion-Montes,5000,SA
+Visayas,Iloilo,Iloilo City,Cuartero,5000,SA
+Visayas,Iloilo,Iloilo City,Cubay,5000,SA
+Visayas,Iloilo,Iloilo City,Danao,5000,SA
+Visayas,Iloilo,Iloilo City,Delgado-Jalandoni-Bagumbayan,5000,SA
+Visayas,Iloilo,Iloilo City,Democracia,5000,SA
+Visayas,Iloilo,Iloilo City,Desamparados,5000,SA
+Visayas,Iloilo,Iloilo City,Divinagracia,5000,SA
+Visayas,Iloilo,Iloilo City,Don Esteban-Lapuz,5000,SA
+Visayas,Iloilo,Iloilo City,Dulonan,5000,SA
+Visayas,Iloilo,Iloilo City,Dungon,5000,SA
+Visayas,Iloilo,Iloilo City,Dungon A,5000,SA
+Visayas,Iloilo,Iloilo City,Dungon B,5000,SA
+Visayas,Iloilo,Iloilo City,East Baluarte,5000,SA
+Visayas,Iloilo,Iloilo City,East Timawa,5000,SA
+Visayas,Iloilo,Iloilo City,Edganzon,5000,SA
+Visayas,Iloilo,Iloilo City,El 98 Castilla (Claudio Lopez),5000,SA
+Visayas,Iloilo,Iloilo City,Fajardo,5000,SA
+Visayas,Iloilo,Iloilo City,Flores,5000,SA
+Visayas,Iloilo,Iloilo City,General Hughes-Montes,5000,SA
+Visayas,Iloilo,Iloilo City,Gloria,5000,SA
+Visayas,Iloilo,Iloilo City,Gustilo,5000,SA
+Visayas,Iloilo,Iloilo City,Guzman-Jesena,5000,SA
+Visayas,Iloilo,Iloilo City,Habog-Habog Salvacion,5000,SA
+Visayas,Iloilo,Iloilo City,Hibao-An Norte,5000,SA
+Visayas,Iloilo,Iloilo City,Hibao-An Sur,5000,SA
+Visayas,Iloilo,Iloilo City,Hinactacan,5000,SA
+Visayas,Iloilo,Iloilo City,Hipodromo,5000,SA
+Visayas,Iloilo,Iloilo City,Inday,5000,SA
+Visayas,Iloilo,Iloilo City,Infante,5000,SA
+Visayas,Iloilo,Iloilo City,Ingore,5000,SA
+Visayas,Iloilo,Iloilo City,Jalandoni Estate-Lapuz,5000,SA
+Visayas,Iloilo,Iloilo City,Jalandoni-Wilson,5000,SA
+Visayas,Iloilo,Iloilo City,Javellana,5000,SA
+Visayas,Iloilo,Iloilo City,Jereos,5000,SA
+Visayas,Iloilo,Iloilo City,Kahirupan,5000,SA
+Visayas,Iloilo,Iloilo City,Kasingkasing,5000,SA
+Visayas,Iloilo,Iloilo City,Katilingban,5000,SA
+Visayas,Iloilo,Iloilo City,Kauswagan,5000,SA
+Visayas,Iloilo,Iloilo City,Laguda,5000,SA
+Visayas,Iloilo,Iloilo City,Lanit,5000,SA
+Visayas,Iloilo,Iloilo City,Lapuz Norte,5000,SA
+Visayas,Iloilo,Iloilo City,Lapuz Sur,5000,SA
+Visayas,Iloilo,Iloilo City,Legaspi Dela Rama,5000,SA
+Visayas,Iloilo,Iloilo City,Liberation,5000,SA
+Visayas,Iloilo,Iloilo City,Libertad,5000,SA
+Visayas,Iloilo,Iloilo City,Libertad-Lapuz,5000,SA
+Visayas,Iloilo,Iloilo City,Loboc-Lapuz,5000,SA
+Visayas,Iloilo,Iloilo City,Lopez Jaena (Jaro),5000,SA
+Visayas,Iloilo,Iloilo City,Lopez Jaena Norte,5000,SA
+Visayas,Iloilo,Iloilo City,Lopez Jaena Sur,5000,SA
+Visayas,Iloilo,Iloilo City,Luna (Jaro),5000,SA
+Visayas,Iloilo,Iloilo City,Luna (La Paz),5000,SA
+Visayas,Iloilo,Iloilo City,M. V. Hechanova,5000,SA
+Visayas,Iloilo,Iloilo City,Mabolo-Delgado,5000,SA
+Visayas,Iloilo,Iloilo City,Macarthur,5000,SA
+Visayas,Iloilo,Iloilo City,Magdalo,5000,SA
+Visayas,Iloilo,Iloilo City,Magsaysay,5000,SA
+Visayas,Iloilo,Iloilo City,Magsaysay Village,5000,SA
+Visayas,Iloilo,Iloilo City,Malipayon-Delgado,5000,SA
+Visayas,Iloilo,Iloilo City,Mansaya-Lapuz,5000,SA
+Visayas,Iloilo,Iloilo City,Marcelo H. Del Pilar,5000,SA
+Visayas,Iloilo,Iloilo City,Maria Clara,5000,SA
+Visayas,Iloilo,Iloilo City,Maria Cristina,5000,SA
+Visayas,Iloilo,Iloilo City,Mohon,5000,SA
+Visayas,Iloilo,Iloilo City,Molo Boulevard,5000,SA
+Visayas,Iloilo,Iloilo City,Monica Blumentritt,5000,SA
+Visayas,Iloilo,Iloilo City,Montinola,5000,SA
+Visayas,Iloilo,Iloilo City,Muelle Loney-Montes,5000,SA
+Visayas,Iloilo,Iloilo City,Nabitasan,5000,SA
+Visayas,Iloilo,Iloilo City,Navais,5000,SA
+Visayas,Iloilo,Iloilo City,Nonoy,5000,SA
+Visayas,Iloilo,Iloilo City,North Avancena,5000,SA
+Visayas,Iloilo,Iloilo City,North Baluarte,5000,SA
+Visayas,Iloilo,Iloilo City,North Fundidor,5000,SA
+Visayas,Iloilo,Iloilo City,North San Jose,5000,SA
+Visayas,Iloilo,Iloilo City,Obrero-Lapuz,5000,SA
+Visayas,Iloilo,Iloilo City,Onate De Leon,5000,SA
+Visayas,Iloilo,Iloilo City,Ortiz,5000,SA
+Visayas,Iloilo,Iloilo City,Osmena,5000,SA
+Visayas,Iloilo,Iloilo City,Our Lady Of Fatima,5000,SA
+Visayas,Iloilo,Iloilo City,Our Lady Of Lourdes,5000,SA
+Visayas,Iloilo,Iloilo City,Pale Benedicto Rizal (Mandurriao),5000,SA
+Visayas,Iloilo,Iloilo City,Phhc Block 17,5000,SA
+Visayas,Iloilo,Iloilo City,Phhc Block 22 Nha,5000,SA
+Visayas,Iloilo,Iloilo City,Poblacion Molo,5000,SA
+Visayas,Iloilo,Iloilo City,President Roxas,5000,SA
+Visayas,Iloilo,Iloilo City,Progreso-Lapuz,5000,SA
+Visayas,Iloilo,Iloilo City,Punong-Lapuz,5000,SA
+Visayas,Iloilo,Iloilo City,Quezon,5000,SA
+Visayas,Iloilo,Iloilo City,Quintin Salas,5000,SA
+Visayas,Iloilo,Iloilo City,Railway,5000,SA
+Visayas,Iloilo,Iloilo City,Rima-Rizal,5000,SA
+Visayas,Iloilo,Iloilo City,Rizal (La Paz),5000,SA
+Visayas,Iloilo,Iloilo City,Rizal Estanzuela,5000,SA
+Visayas,Iloilo,Iloilo City,Rizal Ibarra,5000,SA
+Visayas,Iloilo,Iloilo City,Rizal Palapala I,5000,SA
+Visayas,Iloilo,Iloilo City,Rizal Palapala II,5000,SA
+Visayas,Iloilo,Iloilo City,Roxas Village,5000,SA
+Visayas,Iloilo,Iloilo City,Sambag,5000,SA
+Visayas,Iloilo,Iloilo City,Sampaguita,5000,SA
+Visayas,Iloilo,Iloilo City,San Agustin,5000,SA
+Visayas,Iloilo,Iloilo City,San Antonio,5000,SA
+Visayas,Iloilo,Iloilo City,San Felix,5000,SA
+Visayas,Iloilo,Iloilo City,San Isidro (Jaro),5000,SA
+Visayas,Iloilo,Iloilo City,San Isidro (La Paz),5000,SA
+Visayas,Iloilo,Iloilo City,San Jose (Arevalo),5000,SA
+Visayas,Iloilo,Iloilo City,San Jose (City Proper),5000,SA
+Visayas,Iloilo,Iloilo City,San Jose (Jaro),5000,SA
+Visayas,Iloilo,Iloilo City,San Juan,5000,SA
+Visayas,Iloilo,Iloilo City,San Nicolas,5000,SA
+Visayas,Iloilo,Iloilo City,San Pedro (Jaro),5000,SA
+Visayas,Iloilo,Iloilo City,San Pedro (Molo),5000,SA
+Visayas,Iloilo,Iloilo City,San Rafael,5000,SA
+Visayas,Iloilo,Iloilo City,San Roque,5000,SA
+Visayas,Iloilo,Iloilo City,San Vicente,5000,SA
+Visayas,Iloilo,Iloilo City,Santa Cruz,5000,SA
+Visayas,Iloilo,Iloilo City,Santa Filomena,5000,SA
+Visayas,Iloilo,Iloilo City,Santa Rosa,5000,SA
+Visayas,Iloilo,Iloilo City,Santo Domingo,5000,SA
+Visayas,Iloilo,Iloilo City,Santo Nino Norte,5000,SA
+Visayas,Iloilo,Iloilo City,Santo Nino Sur,5000,SA
+Visayas,Iloilo,Iloilo City,Santo Rosario-Duran,5000,SA
+Visayas,Iloilo,Iloilo City,Seminario (Burgos Jalandoni),5000,SA
+Visayas,Iloilo,Iloilo City,Simon Ledesma,5000,SA
+Visayas,Iloilo,Iloilo City,Sinikway (Bangkerohan Lapuz),5000,SA
+Visayas,Iloilo,Iloilo City,So-Oc,5000,SA
+Visayas,Iloilo,Iloilo City,South Baluarte,5000,SA
+Visayas,Iloilo,Iloilo City,South Fundidor,5000,SA
+Visayas,Iloilo,Iloilo City,South San Jose,5000,SA
+Visayas,Iloilo,Iloilo City,Taal,5000,SA
+Visayas,Iloilo,Iloilo City,Tabuc Suba (Jaro),5000,SA
+Visayas,Iloilo,Iloilo City,Tabuc Suba (La Paz),5000,SA
+Visayas,Iloilo,Iloilo City,Tabucan,5000,SA
+Visayas,Iloilo,Iloilo City,Tacas,5000,SA
+Visayas,Iloilo,Iloilo City,Tagbac,5000,SA
+Visayas,Iloilo,Iloilo City,Tanza-Esperanza,5000,SA
+Visayas,Iloilo,Iloilo City,Tap-Oc,5000,SA
+Visayas,Iloilo,Iloilo City,Taytay Zone II,5000,SA
+Visayas,Iloilo,Iloilo City,Ticud (La Paz),5000,SA
+Visayas,Iloilo,Iloilo City,Timawa Tanza I,5000,SA
+Visayas,Iloilo,Iloilo City,Timawa Tanza II,5000,SA
+Visayas,Iloilo,Iloilo City,Ungka,5000,SA
+Visayas,Iloilo,Iloilo City,Veterans Village,5000,SA
+Visayas,Iloilo,Iloilo City,Villa Anita,5000,SA
+Visayas,Iloilo,Iloilo City,West Habog-Habog,5000,SA
+Visayas,Iloilo,Iloilo City,West Timawa,5000,SA
+Visayas,Iloilo,Iloilo City,Yulo Drive,5000,SA
+Visayas,Iloilo,Iloilo City,Yulo-Arroyo,5000,SA
+Visayas,Iloilo,Iloilo City,Zamora-Melliza,5000,SA
+Visayas,Iloilo,Leganes,Bigke,5003,SA
+Visayas,Iloilo,Leganes,Buntatala,5003,SA
+Visayas,Iloilo,Leganes,Cagamutan Norte,5003,SA
+Visayas,Iloilo,Leganes,Cagamutan Sur,5003,SA
+Visayas,Iloilo,Leganes,Calaboa,5003,SA
+Visayas,Iloilo,Leganes,Camangay,5003,SA
+Visayas,Iloilo,Leganes,Cari Mayor,5003,SA
+Visayas,Iloilo,Leganes,Cari Minor,5003,SA
+Visayas,Iloilo,Leganes,Gua-An,5003,SA
+Visayas,Iloilo,Leganes,Guihaman,5003,SA
+Visayas,Iloilo,Leganes,Guinobatan,5003,SA
+Visayas,Iloilo,Leganes,Guintas,5003,SA
+Visayas,Iloilo,Leganes,Lapayon,5003,SA
+Visayas,Iloilo,Leganes,M.v. Hechanova (Balagon),5003,SA
+Visayas,Iloilo,Leganes,Nabitasan,5003,SA
+Visayas,Iloilo,Leganes,Napnud,5003,SA
+Visayas,Iloilo,Leganes,Poblacion,5003,SA
+Visayas,Iloilo,Leganes,San Vicente,5003,SA
+Visayas,Iloilo,Oton,Abilay Norte,5020,SA
+Visayas,Iloilo,Oton,Abilay Sur,5020,SA
+Visayas,Iloilo,Oton,Alegre,5020,SA
+Visayas,Iloilo,Oton,Batuan Ilaud,5020,SA
+Visayas,Iloilo,Oton,Batuan Ilaya,5020,SA
+Visayas,Iloilo,Oton,Bita Norte,5020,SA
+Visayas,Iloilo,Oton,Bita Sur,5020,SA
+Visayas,Iloilo,Oton,Botong,5020,SA
+Visayas,Iloilo,Oton,Buray,5020,SA
+Visayas,Iloilo,Oton,Cabanbanan,5020,SA
+Visayas,Iloilo,Oton,Caboloan Norte,5020,SA
+Visayas,Iloilo,Oton,Caboloan Sur,5020,SA
+Visayas,Iloilo,Oton,Cadinglian,5020,SA
+Visayas,Iloilo,Oton,Cagbang,5020,SA
+Visayas,Iloilo,Oton,Calam-Isan,5020,SA
+Visayas,Iloilo,Oton,Galang,5020,SA
+Visayas,Iloilo,Oton,Lambuyao,5020,SA
+Visayas,Iloilo,Oton,Mambog,5020,SA
+Visayas,Iloilo,Oton,Pakiad,5020,SA
+Visayas,Iloilo,Oton,Poblacion East,5020,SA
+Visayas,Iloilo,Oton,Poblacion North,5020,SA
+Visayas,Iloilo,Oton,Poblacion South,5020,SA
+Visayas,Iloilo,Oton,Poblacion West,5020,SA
+Visayas,Iloilo,Oton,Polo Maestra Bita,5020,SA
+Visayas,Iloilo,Oton,Rizal,5020,SA
+Visayas,Iloilo,Oton,Salngan,5020,SA
+Visayas,Iloilo,Oton,Sambaludan,5020,SA
+Visayas,Iloilo,Oton,San Antonio,5020,SA
+Visayas,Iloilo,Oton,San Nicolas,5020,SA
+Visayas,Iloilo,Oton,Santa Clara,5020,SA
+Visayas,Iloilo,Oton,Santa Monica,5020,SA
+Visayas,Iloilo,Oton,Santa Rita,5020,SA
+Visayas,Iloilo,Oton,Tagbac Norte,5020,SA
+Visayas,Iloilo,Oton,Tagbac Sur,5020,SA
+Visayas,Iloilo,Oton,Trapiche,5020,SA
+Visayas,Iloilo,Oton,Tuburan,5020,SA
+Visayas,Iloilo,Oton,Turog-Turog,5020,SA
+Visayas,Iloilo,Pavia,Aganan,5001,SA
+Visayas,Iloilo,Pavia,Amparo,5001,SA
+Visayas,Iloilo,Pavia,Anilao,5001,SA
+Visayas,Iloilo,Pavia,Balabag,5001,SA
+Visayas,Iloilo,Pavia,Cabugao Norte,5001,SA
+Visayas,Iloilo,Pavia,Cabugao Sur,5001,SA
+Visayas,Iloilo,Pavia,Jibao-An,5001,SA
+Visayas,Iloilo,Pavia,Mali-Ao,5001,SA
+Visayas,Iloilo,Pavia,Pagsanga-An,5001,SA
+Visayas,Iloilo,Pavia,Pal-Agon,5001,SA
+Visayas,Iloilo,Pavia,Pandac,5001,SA
+Visayas,Iloilo,Pavia,Purok I (Pob.),5001,SA
+Visayas,Iloilo,Pavia,Purok II (Pob.),5001,SA
+Visayas,Iloilo,Pavia,Purok III (Pob.),5001,SA
+Visayas,Iloilo,Pavia,Purok IV (Pob.),5001,SA
+Visayas,Iloilo,Pavia,Tigum,5001,SA
+Visayas,Iloilo,Pavia,Ungka I,5001,SA
+Visayas,Iloilo,Pavia,Ungka II,5001,SA
+Visayas,Leyte,Tacloban City,Barangay 100 (San Roque),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 101 (New Kawayan),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 102 (Old Kawayan),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 103 (Palanog),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 103-A (San Paglaum),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 104 (Salvacion),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 105 (Suhi),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 106 (Santo Nino),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 107 (Santa Elena),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 108 (Tagapuro),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 109 (V & G Subd.),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 109-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 110 (Utap),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 12 (Palanog Resettlement),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 13,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 14,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 15,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 16,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 17,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 18,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 19,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 2,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 20,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 21,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 21-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 22,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 23,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 23-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 24,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 25,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 26,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 27,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 28,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 29,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 30,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 31,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 32,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 33,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 34,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 35,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 35-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 36,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 36-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 37,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 37-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 38,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 39,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 40,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 41,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 42,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 42-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 43,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 43-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 43-B,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 44,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 44-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 45,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 46,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 47,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 48,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 48-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 48-B,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 49,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 5,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 50,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 50-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 50-B,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 51,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 51-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 52,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 53,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 54,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 54-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 56,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 56-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 57,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 58,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 59,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 59-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 59-B,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 5-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 6,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 60,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 60-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 61,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 62,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 62-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 62-B,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 63,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 64,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 65,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 66,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 66-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 67,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 68,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 69,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 6-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 7,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 70,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 71,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 72,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 73,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 74,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 75,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 76,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 77,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 78 (Marasbaras),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 79 (Marasbaras),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 8,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 80 (Marasbaras),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 81 (Marasbaras),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 82 (Marasbaras),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 83 (San Jose),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 83-A (San Jose),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 83-B,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 83-C (San Jose),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 84 (San Jose),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 85 (San Jose),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 86,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 87,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 88,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 89,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 8-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 90 (San Jose),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 91 (Abucay),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 92 (Apitong),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 93 (Bagacay),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 94 (Tigbao),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 94-A,6500,SA
+Visayas,Leyte,Tacloban City,Barangay 95 (Caibaan),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 95-A (Caibaan),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 96 (Calanipawan),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 97 (Cabalawan),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 98 (Camansinay),6500,SA
+Visayas,Leyte,Tacloban City,Barangay 99 (Diit),6500,SA
+Visayas,Leyte,Tacloban City,El Reposo (Barangays 55 & 55A),6500,SA
+Visayas,Leyte,Tacloban City,Libertad (Barangays 1 & 4),6500,SA
+Visayas,Leyte,Tacloban City,Nula-tula (Bgys. 3 & 3A),6500,SA
+Visayas,Negros Occidental,Bacolod City,Alijis,6100,SA
+Visayas,Negros Occidental,Bacolod City,Banago,6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 1 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 10 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 11 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 12 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 13 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 14 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 15 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 16 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 17 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 18 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 19 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 2 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 20 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 21 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 22 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 23 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 24 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 25 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 26 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 27 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 28 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 29 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 3 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 30 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 31 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 32 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 33 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 34 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 35 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 36 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 37 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 38 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 39 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 4 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 40 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 41 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 5 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 6 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 7 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 8 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Barangay 9 (Pob.),6100,SA
+Visayas,Negros Occidental,Bacolod City,Bata,6100,SA
+Visayas,Negros Occidental,Bacolod City,Cabug,6100,SA
+Visayas,Negros Occidental,Bacolod City,Estefania,6100,SA
+Visayas,Negros Occidental,Bacolod City,Felisa,6100,SA
+Visayas,Negros Occidental,Bacolod City,Granada,6100,SA
+Visayas,Negros Occidental,Bacolod City,Handumanan,6100,SA
+Visayas,Negros Occidental,Bacolod City,Mandalagan,6100,SA
+Visayas,Negros Occidental,Bacolod City,Mansilingan,6100,SA
+Visayas,Negros Occidental,Bacolod City,Montevista,6100,SA
+Visayas,Negros Occidental,Bacolod City,Pahanocoy,6100,SA
+Visayas,Negros Occidental,Bacolod City,Punta Taytay,6100,SA
+Visayas,Negros Occidental,Bacolod City,Singcang-Airport,6100,SA
+Visayas,Negros Occidental,Bacolod City,Sum-Ag,6100,SA
+Visayas,Negros Occidental,Bacolod City,Taculing,6100,SA
+Visayas,Negros Occidental,Bacolod City,Tangub,6100,SA
+Visayas,Negros Occidental,Bacolod City,Villamonte,6100,SA
+Visayas,Negros Occidental,Bacolod City,Vista Alegre,6100,SA
+Visayas,Negros Oriental,Amlan,Jantianon,6203,SA
+Visayas,Negros Oriental,Amlan,Jugno,6203,SA
+Visayas,Negros Oriental,Amlan,Mag-Abo,6203,SA
+Visayas,Negros Oriental,Amlan,Poblacion,6203,SA
+Visayas,Negros Oriental,Amlan,Silab,6203,SA
+Visayas,Negros Oriental,Amlan,Tambojangin,6203,SA
+Visayas,Negros Oriental,Amlan,Tandayag,6203,SA
+Visayas,Negros Oriental,Bacong,Banilad,6216,SA
+Visayas,Negros Oriental,Bacong,Buntis,6216,SA
+Visayas,Negros Oriental,Bacong,Buntod,6216,SA
+Visayas,Negros Oriental,Bacong,Mampas,6216,SA
+Visayas,Negros Oriental,Bacong,North Poblacion,6216,SA
+Visayas,Negros Oriental,Bacong,Sacsac,6216,SA
+Visayas,Negros Oriental,Bacong,San Miguel,6216,SA
+Visayas,Negros Oriental,Bacong,South Poblacion,6216,SA
+Visayas,Negros Oriental,Bacong,Sulodpan,6216,SA
+Visayas,Negros Oriental,Bacong,West Poblacion,6216,SA
+Visayas,Negros Oriental,Dauin,Bagacay,6217,SA
+Visayas,Negros Oriental,Dauin,Baslay,6217,SA
+Visayas,Negros Oriental,Dauin,Batuhon Dacu,6217,SA
+Visayas,Negros Oriental,Dauin,Boloc-Boloc,6217,SA
+Visayas,Negros Oriental,Dauin,Bulak,6217,SA
+Visayas,Negros Oriental,Dauin,Bunga,6217,SA
+Visayas,Negros Oriental,Dauin,Libjo,6217,SA
+Visayas,Negros Oriental,Dauin,Lipayo,6217,SA
+Visayas,Negros Oriental,Dauin,Maayongtubig,6217,SA
+Visayas,Negros Oriental,Dauin,Mag-Aso,6217,SA
+Visayas,Negros Oriental,Dauin,Magsaysay,6217,SA
+Visayas,Negros Oriental,Dauin,Masaplod Norte,6217,SA
+Visayas,Negros Oriental,Dauin,Masaplod Sur,6217,SA
+Visayas,Negros Oriental,Dauin,Panubtuban,6217,SA
+Visayas,Negros Oriental,Dauin,Poblacion I,6217,SA
+Visayas,Negros Oriental,Dauin,Poblacion II,6217,SA
+Visayas,Negros Oriental,Dauin,Poblacion III,6217,SA
+Visayas,Negros Oriental,Dumaguete City,Bagacay,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Bajumpandan,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Balugo,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Banilad,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Bantayan,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Batinguel,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Bunao,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Cadawinonan,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Calindagan,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Camanjac,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Candau-Ay,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Cantil-E,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Daro,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Junob,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Looc,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Mangnao-Canal,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Motong,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Piapi,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Poblacion No. 1 (Barangay 1),6200,SA
+Visayas,Negros Oriental,Dumaguete City,Poblacion No. 2 (Barangay 2),6200,SA
+Visayas,Negros Oriental,Dumaguete City,Poblacion No. 3 (Barangay 3),6200,SA
+Visayas,Negros Oriental,Dumaguete City,Poblacion No. 4 (Barangay 4),6200,SA
+Visayas,Negros Oriental,Dumaguete City,Poblacion No. 5 (Barangay 5),6200,SA
+Visayas,Negros Oriental,Dumaguete City,Poblacion No. 6 (Barangay 6),6200,SA
+Visayas,Negros Oriental,Dumaguete City,Poblacion No. 7 (Barangay 7),6200,SA
+Visayas,Negros Oriental,Dumaguete City,Poblacion No. 8 (Barangay 8),6200,SA
+Visayas,Negros Oriental,Dumaguete City,Pulantubig,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Tabuctubig,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Taclobo,6200,SA
+Visayas,Negros Oriental,Dumaguete City,Talay,6200,SA
+Visayas,Negros Oriental,San Jose,Basak,6202,SA
+Visayas,Negros Oriental,San Jose,Basiao,6202,SA
+Visayas,Negros Oriental,San Jose,Cambaloctot,6202,SA
+Visayas,Negros Oriental,San Jose,Cancawas,6202,SA
+Visayas,Negros Oriental,San Jose,Janayjanay,6202,SA
+Visayas,Negros Oriental,San Jose,Jilocon,6202,SA
+Visayas,Negros Oriental,San Jose,Naiba,6202,SA
+Visayas,Negros Oriental,San Jose,Poblacion,5510,SA
+Visayas,Negros Oriental,San Jose,San Roque,5100,SA
+Visayas,Negros Oriental,San Jose,Santo Nino,6202,SA
+Visayas,Negros Oriental,San Jose,Senora Ascion (Calo),6202,SA
+Visayas,Negros Oriental,San Jose,Siapo,6202,SA
+Visayas,Negros Oriental,San Jose,Tampi,6202,SA
+Visayas,Negros Oriental,San Jose,Tapon Norte,6202,SA
+Visayas,Negros Oriental,Sibulan,Bolocboloc,6201,SA
+Visayas,Negros Oriental,Sibulan,Calabnugan,6201,SA
+Visayas,Negros Oriental,Sibulan,Cangmating,6201,SA
+Visayas,Negros Oriental,Sibulan,Enrique Villanueva,6201,SA
+Visayas,Negros Oriental,Sibulan,Looc,6201,SA
+Visayas,Negros Oriental,Sibulan,Magatas,6201,SA
+Visayas,Negros Oriental,Sibulan,Maslog,6201,SA
+Visayas,Negros Oriental,Sibulan,Poblacion,6201,SA
+Visayas,Negros Oriental,Sibulan,San Antonio,6201,SA
+Visayas,Negros Oriental,Sibulan,Tubigon,6201,SA
+Visayas,Negros Oriental,Sibulan,Tubtubon,6201,SA
+Visayas,Negros Oriental,Valencia,Balabag East,6215,SA
+Visayas,Negros Oriental,Valencia,Balabag West,6215,SA
