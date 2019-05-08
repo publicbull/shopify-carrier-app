@@ -19,6 +19,8 @@ const apiSecret = process.env.SHOPIFY_API_SECRET
 const scopes = 'read_products'
 const forwardingAddress = process.env.FORWARDING_ADDRESS // Replace this with your HTTPS Forwarding address
 
+const port = process.env.PORT || 3000
+
 let carrierSelector
 const dbLoaded = new Promise(
     resolve => (carrierSelector = CarrierSelector.getInstance(resolve))
@@ -178,8 +180,8 @@ app.get('/shopify/callback', (req, res) => {
 })
 
 export const serverStarted = new Promise(resolve => {
-    app.listen(3000, () => {
-        console.log('Example app listening on port 3000!')
+    app.listen(port, () => {
+        console.log(`CarrierSelector app listening on port ${port}!`)
         dbLoaded.then(() => resolve(app))
     })
 })
