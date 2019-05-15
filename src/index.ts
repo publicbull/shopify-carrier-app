@@ -26,8 +26,6 @@ const dbLoaded = new Promise(
     resolve => (carrierSelector = CarrierSelector.getInstance(resolve))
 )
 
-const DEFAULT_CARRIER = 'LBC'
-
 app.get('/', (req, res) => {
     console.log(req.query)
     if (Object.keys(req.query).length > 0) {
@@ -55,7 +53,6 @@ app.get('/', (req, res) => {
                 const names: string[] = _.uniq(
                     carriers.map(it => it.snapshot()[0].name)
                 )
-                names.push(DEFAULT_CARRIER)
                 console.log(req.headers.accept)
                 console.log(names.length)
                 switch (req.headers.accept || 'text/plain') {
@@ -63,7 +60,9 @@ app.get('/', (req, res) => {
                         res.status(200).json(names)
                         break
                     default:
-                        res.status(200).send(names[0] + '\r\n')
+                        res.status(200).send(
+                            names.length ? names[0] + '\r\n' : undefined
+                        )
                         break
                 }
             })
