@@ -60,7 +60,9 @@ app.get('/', (req, res) => {
                         res.status(200).json(names)
                         break
                     default:
-                        res.status(200).send(names[0] + '\r\n')
+                        res.status(200).send(
+                            names.length ? names[0] + '\r\n' : undefined
+                        )
                         break
                 }
             })
